@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Directx11FPS">
+</Property><Property Name="Solution File" Value="C:\Users\Seky\Documents\Visual Studio 2008\Projects\Directx11FPS\Directx11FPS.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Seky\Documents\Visual Studio 2008\Projects\Directx11FPS\Directx11FPS.suo">
+</Property><Property Name="Date" Value="14. júla 2011">
+</Property><Property Name="Time" Value="22:44">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Directx11FPS.sln" Description="File successfully backed up as C:\Users\Seky\Documents\Visual Studio 2008\Projects\Directx11FPS\Directx11FPS.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Directx11FPS.suo" Description="File successfully backed up as C:\Users\Seky\Documents\Visual Studio 2008\Projects\Directx11FPS\Directx11FPS.suo.old">
+</Event><Event ErrorLevel="0" Project="Directx11FPS" Source="Directx11FPS\Directx11FPS.vcproj" Description="Converting project file 'C:\Users\Seky\Documents\Visual Studio 2008\Projects\Directx11FPS\Directx11FPS\Directx11FPS.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Directx11FPS" Source="Directx11FPS\Directx11FPS.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Directx11FPS" Source="Directx11FPS\Directx11FPS.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Directx11FPS" Source="Directx11FPS\Directx11FPS.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Directx11FPS" Source="Directx11FPS\Directx11FPS.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Directx11FPS" Source="Directx11FPS\Directx11FPS.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Directx11FPS" Source="Directx11FPS\Directx11FPS.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Directx11FPS" Source="Directx11FPS\Directx11FPS.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Directx11FPS" Source="Directx11FPS\Directx11FPS.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Directx11FPS" Source="Directx11FPS\Directx11FPS.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Directx11FPS" Source="Directx11FPS\Directx11FPS.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Directx11FPS" Source="Directx11FPS\Directx11FPS.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="Directx11FPS" Source="Directx11FPS\Directx11FPS.vcproj" Description="Done converting to new project file 'C:\Users\Seky\Documents\Visual Studio 2008\Projects\Directx11FPS\Directx11FPS\Directx11FPS.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Directx11FPS" Source="Directx11FPS\Directx11FPS.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Directx11FPS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Directx11FPS.sln" Description="Converted">
+</Event></UpgradeLog>
